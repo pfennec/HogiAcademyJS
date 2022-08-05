@@ -1,0 +1,1 @@
+let a =prompt("Quelle est la capitale de la France"); 

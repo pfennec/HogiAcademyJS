@@ -22,13 +22,13 @@ else
 
 let b = true;
 let result = b && (1/0);
-console.log(Infinity car on ne peut diviser un nombre par zero),
+console.log(Infinity); //car on ne peut diviser un nombre par zero,
 
 let b = false;
 let result = b && (1/0);
-console.log( la condition '&&' est vrai si les valeurs sont vraies ),
+console.log(false);  //la condition '&&' est vrai si les valeurs sont vraies,
 
-//exercice 3
+//exercice 3  equation du second degre
 
 // let a=10;
 // let b=8;
