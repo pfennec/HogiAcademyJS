@@ -18,4 +18,6 @@ const tab = [12,11,33,22,14,51,85,30,25,78];
     //afficher les nombres impaire
 
     let filtre = (c)=>(c%2==1);
-    tab.filter(filtre);
+    tab.filter(filtre); iuipi
+    hhl h
+    uho globalThis
